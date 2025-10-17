@@ -21,36 +21,36 @@ Here are some highlights from my work:
 
 - **Foundry Arts YouTube Channel** (July 2025 - Present)  
   Managed a channel teaching Palantir Foundry and AIP in Korean. Built apps like a Dictionary App (ontology querying, LLMs), Personalized Bible App (data cleaning with Python/Excel, MLOps with embeddings), Book Scan AI (OCR pipeline in TypeScript, LLM enhancements), Nebraska Medicine Demo Recreation (AI agents, synthetic data), MONO Note-Taking App (vector DB, SQL, API integration), and GlucoGuide (Vega-Lite viz, AI for glucose monitoring).  
-  [YouTube Channel](https://www.youtube.com/@FoundryArts) | [Repo URL to Foundry Arts Projects]
+  [YouTube Channel](https://www.youtube.com/@FoundryArts)
 
 - **Age-Related Macular Disease (AMD) Meta-Analysis** (June - September 2025)  
   Refactored Dismod-MR library from PyMC2 to PyMC5 for Bayesian modeling. Fixed data structures, prediction functions, and built an EM pipeline for global trend analysis. Paper under submission to Nature Medicine.  
   Skills: Python, PyMC, MCMC, Data Structures, Git.  
-  [Repo URL to AMD Project]
+  [Github Repo](https://github.com/EonSJeon/dismod_mr_migrated)
 
 - **EEBO Topic Modeling** (January - May 2025)  
   Implemented PLSI for historical texts using NumPy/SciPy. Built interactive dashboards with Plotly, utilized PACE-ICE cluster with SLURM, and documented with LaTeX/Markdown.  
   Skills: Python, Algorithm Design, Data Viz (Matplotlib/Seaborn/Plotly), HPC.  
-  [Repo URL to EEBO Project]
+  [Github Repo](https://github.com/VIP-TopicModeling/Topic-Modeling-VIP-EEBO-TCP-Collections-Navigations)
 
 - **Game Value Index Recommendation System** (September - December 2024)  
   Developed GVI metric for video games using RAWG API. Built KMeans-based recommender with interactive scatterplots (1D/2D/3D) and PCA.  
   Skills: Data Preprocessing, ML (KMeans), Data Viz, UI/UX.  
-  [Repo URL to Game Value Index]
+  [Github Repo](https://github.com/adithya-gv/cse-6242-final)
 
 - **U.S. Employment Scrollytelling Dashboard** (September - December 2024)  
   Created interactive Tableau site analyzing BLS data (2008-2023). Used martini-glass narrative with sunbursts, lollipops, treemaps, and projections.  
   Skills: Tableau, Web Dev (HTML/CSS/JS), Statistical Analysis, Storytelling.  
-  [Repo URL to Scrollytelling Project]
+  [Vimeo Video](https://vimeo.com/1039512879)
 
 - **Amazon Last-Mile Delivery Dashboard** (January - April 2025)  
   Interactive front-end tool for 6K+ routes dataset. Features hierarchical views (nation/station/route), filters, cross-highlighting, and D3 maps/scatters/pies.  
-  [GitHub Repo](https://github.com/SCOU7/D3-Amazon-delivery-dashboard) | [Live Demo](https://scou7.github.io/D3-Amazon-delivery-dashboard/)
+  [Github Repo](https://github.com/SCOU7/D3-Amazon-delivery-dashboard)
 
 - **Medical Image Segmentation Comparison** (January - April 2024)  
   Evaluated CNNs (U-Net, LRASPP, FCN) vs. Transformers (MedT, SegFormer, Swin) on MRI data. Custom loss functions, augmentation, transfer learning.  
   Skills: PyTorch, Deep Learning, Data Augmentation, Optimization.  
-  [Repo URL to Medical Segmentation]
+  [Github Repo](https://github.com/sean-seowon-yi/CSC413-Project)
 
 ## 🎓 Education
 - **Georgia Institute of Technology**  
