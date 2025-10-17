@@ -66,10 +66,6 @@ Here are some highlights from my work:
 - Unmanned Multicopter Pilot License (Type 1), Issued by KOTSA (2025) – For drones up to 150kg.
 - Professional Bartender Certification, Issued by Kukje Cocktail School (2018) – Mixology and service expertise.
 
-## 📊 GitHub Stats
-![Taehwan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SCOU7&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SCOU7&layout=compact&theme=radical)
-
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/taehwan-park-a74ba2223/)
 - Email: thp0116@gmail.com
